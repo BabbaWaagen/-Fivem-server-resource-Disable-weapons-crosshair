@@ -1,0 +1,1 @@
+# -Fivem-server-resource-Disable-weapons-crosshair
