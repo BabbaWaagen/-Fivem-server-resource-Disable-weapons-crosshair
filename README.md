@@ -6,6 +6,8 @@ Then you've come to the right place with this script, as the name suggests, it d
 > ATTENTION: It only works on Fivem!
 
 If you have any questions or problems pls come on this server and talk with us.
+DC: https://discord.gg/jnw9xKZFna
+
 
 ## Installation:
 - Put the folder `BS_Reticle_Remove` into your resource folder
